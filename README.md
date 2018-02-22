@@ -46,8 +46,8 @@ equ
 ## Install Thai package
 $ sudo apt-get install tesseract-ocr-tha 
 
-$ sudo tesseract --list-langs List of available languages (4):
-tha
-osd
-eng
-equ 
+$ sudo tesseract --list-langs List of available languages (4):  
+tha  
+osd  
+eng  
+equ   
