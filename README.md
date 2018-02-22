@@ -1,11 +1,11 @@
 # Tesseract-Thai
 Tesseract-ocr for Thai language
 
-Thai Text Image  
+## Thai Text Image  
 
 ![Thai text image](https://github.com/mrolarik/Tesseract-Thai/blob/master/data-text-img/thai-text.png)
 
-Thai OCR 
+## Thai Text 
 
 [ปั้นบบุฒ่สุดปธะเสธีฐิเลิศคุณค่า  
 กฮ่าปรอีดาฟู0ส้ดว๋เดธับิฉาบ  
@@ -17,12 +17,12 @@ Thai OCR
 พูดจาไหัอัะ ๆ อ่า ๆ ปาฟั0[อยฯ  
 ]
 
-# Install Tesseract
+## Install Tesseract
 $ sudo apt-get install libpng-dev libjpeg-dev libtiff-dev zlib1g-dev  
 $ sudo apt-get install gcc g++  
 $ sudo apt-get install autoconf automake libtool checkinstall  
 
-## Need image processing toolkit Leptonica to build Tesseract.
+### Need image processing toolkit Leptonica to build Tesseract.
 $ cd ~
 $ wget http://www.leptonica.org/source/leptonica-1.73.tar.gz
 $ tar -zxvf leptonica-1.73.tar.gz
