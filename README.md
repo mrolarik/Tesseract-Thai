@@ -38,10 +38,10 @@ $ sudo apt-get install tesseract-ocr
 $ tesseract --help  
 
 ## List available languages for tesseract engine  
-$ sudo tesseract --list-langs List of available languages (3):
-osd
-eng
-equ 
+$ sudo tesseract --list-langs List of available languages (3):  
+osd  
+eng  
+equ   
 
 ## Install Thai package
 $ sudo apt-get install tesseract-ocr-tha 
