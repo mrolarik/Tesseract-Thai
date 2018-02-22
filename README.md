@@ -56,6 +56,7 @@ equ
 $ sudo pip install pytesseract
 
 ### Python program
+```
 from PIL import Image
 import pytesseract
 
@@ -64,3 +65,4 @@ txtImg = Image.open(img_path)
 text = pytesseract.image_to_string(txtImg)
 
 print text
+```
