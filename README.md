@@ -51,3 +51,16 @@ tha
 osd  
 eng  
 equ   
+
+## Using Python and Tesserect
+$ sudo pip install pytesseract
+
+### Python program
+from PIL import Image
+import pytesseract
+
+img_path = 'data-test-img/text-img.png'
+txtImg = Image.open(img_path)
+text = pytesseract.image_to_string(txtImg)
+
+print text
