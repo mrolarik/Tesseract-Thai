@@ -83,3 +83,4 @@ print text
 - [Tesseract ocr](https://github.com/mrolarik/Tesseract-Thai/blob/master/tesseract-ocr.ipynb)  
 - [Tesseract English Language](https://github.com/mrolarik/Tesseract-Thai/blob/master/tesseract-ocr-English-language.ipynb)  
 - [Tesseract Thai Language](https://github.com/mrolarik/Tesseract-Thai/blob/master/tesseract-ocr-Thai-language.ipynb)  
+- [Tesseract Other Languages](https://github.com/mrolarik/Tesseract-Thai/blob/master/tesseract-ocr-other-languages.ipynb)
